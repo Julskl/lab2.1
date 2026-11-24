@@ -2,7 +2,7 @@ package org.example;
 
 public enum Gender {
     MAN("M"),
-    WOMAN("Ж");
+    WOMAN("F");
 
     private final String subject;
 
